@@ -1,0 +1,29 @@
+﻿@page "/"
+@using Syncfusion.Blazor.Inputs
+
+
+
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<div class="row">
+    <div class="col-lg-12 d-flex gap-2">
+            <SfTextBox CssClass="e-outline" Placeholder="Outlined" FloatLabelType="@FloatLabelType.Auto"></SfTextBox>
+            <SfNumericTextBox TValue="double?" Placeholder="Enter the distance" Value=250 Format="###.### km" Min=0></SfNumericTextBox>
+            <SfDatePicker TValue="DateTime?" Placeholder="Choose a Date" FullScreen="true" ShowClearButton="true"></SfDatePicker>
+    </div>
+</div>
+
+<style>
+    .control-wrapper {
+        max-width: 250px;
+        margin: 0 auto;
+        padding: 50px 0px 0px;
+    }
+    .example-label {
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+</style>

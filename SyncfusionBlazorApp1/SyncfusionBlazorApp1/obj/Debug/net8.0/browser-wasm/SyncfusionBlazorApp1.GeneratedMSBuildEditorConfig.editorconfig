@@ -1,0 +1,295 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SyncfusionBlazorApp1
+build_property.RootNamespace = SyncfusionBlazorApp1
+build_property.ProjectDir = G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/BLMain.razor]
+build_metadata.AdditionalFiles.TargetPath = QkxNYWluLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/AccordionFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3JkaW9uRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/AppBarFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwQmFyRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/AutoCompleteFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b0NvbXBsZXRlRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/BreadcrumbFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnJlYWRjcnVtYkZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/BulletChartFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVsbGV0Q2hhcnRGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ButtonFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ButtonGroupFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uR3JvdXBGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/CalendarFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsZW5kYXJGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/CardFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZEZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/CarouselFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyb3VzZWxGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ChartsFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcnRzRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/CheckboxFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tib3hGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ChipsFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hpcHNGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/CircularGaugeFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2lyY3VsYXJHYXVnZUZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ColorPaletteFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sb3JQYWxldHRlRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ColorPickerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sb3JQaWNrZXJGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ComboBoxFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tYm9Cb3hGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ContextMenuFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGV4dE1lbnVGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DashboardLayoutFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkTGF5b3V0RmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DataGridFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YUdyaWRGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DatePickerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0ZVBpY2tlckZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DateRangePickerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0ZVJhbmdlUGlja2VyRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DateTimePickerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0ZVRpbWVQaWNrZXJGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DialogFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlhbG9nRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DropdownListFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJvcGRvd25MaXN0RmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/DropdownMenuFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJvcGRvd25NZW51RmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ExcelFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhjZWxGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/FileManagerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsZU1hbmFnZXJGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/FileUploadFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsZVVwbG9hZEZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/FloatingActionButtonFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxvYXRpbmdBY3Rpb25CdXR0b25GZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/GanttChartFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FudHRDaGFydEZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ImageEditorFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1hZ2VFZGl0b3JGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/InputMaskFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5wdXRNYXNrRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ListBoxFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdEJveEZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/MenuBarFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudUJhckZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/MessageFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzc2FnZUZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/MultiSelectDropdownFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVsdGlTZWxlY3REcm9wZG93bkZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/NumericTextBoxFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVtZXJpY1RleHRCb3hGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/PivotTableFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl2b3RUYWJsZUZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ProgressButtonFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZ3Jlc3NCdXR0b25GZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/QueryBuilderFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlcnlCdWlsZGVyRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/RadioButtonFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFkaW9CdXR0b25GZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/RangeSliderFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ2VTbGlkZXJGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/RatingFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/SchedulerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGVyRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/SidebarFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lkZWJhckZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/SignatureFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbmF0dXJlRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/SkeletonFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tlbGV0b25GZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/SpinnerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Bpbm5lckZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/SplitButtonFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BsaXRCdXR0b25GZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/StepperFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RlcHBlckZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/StockChartFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvY2tDaGFydEZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/TabsFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFic0ZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/TextBoxFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGV4dEJveEZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/TimePickerFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGltZVBpY2tlckZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ToastFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9hc3RGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ToggleSwitchButtonFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9nZ2xlU3dpdGNoQnV0dG9uRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/ToolbarFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9vbGJhckZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/TooltipFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9vbHRpcEZlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/TreeGridFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlZUdyaWRGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/TreeViewFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlZVZpZXdGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-36db5zk1qa
+
+[G:/myweb/Blazor/SyncfusionBlazorApp1/SyncfusionBlazorApp1/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c9nuu078ma

@@ -1,0 +1,1408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-T76IREI</Machine>
+    <WindowsUser>Dell</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>com.companyname.bluelotus.syncfpro</PackageIdentityName>
+    <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
+    <IntermediateOutputPath>G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <RegisteredManifestChecksum>12A486D836919453E21CC73778F776642EC37F3A15A2359C09A0DB35436B0D3D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.companyname.bluelotus.syncfpro_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.companyname.bluelotus.syncfpro_9zz4h110yvjzm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.companyname.bluelotus.syncfpro</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=User Name</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-01-12T13:41:02.120</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2024-01-12T13:41:01.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.runtimeconfig.json">
+      <PackagePath>bluelotus.syncfpro.runtimeconfig.json</PackagePath>
+      <Modified>2024-01-12T13:41:01.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.dll">
+      <PackagePath>bluelotus.syncfpro.dll</PackagePath>
+      <Modified>2024-01-12T13:41:00.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+      <PackagePath>bluelotus.syncfpro.exe</PackagePath>
+      <Modified>2024-01-12T13:41:00.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\Resources\Raw\AboutAssets.txt">
+      <PackagePath>AboutAssets.txt</PackagePath>
+      <Modified>2024-01-12T06:58:17.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\anne.png">
+      <PackagePath>wwwroot\anne.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\bee-eater.png">
+      <PackagePath>wwwroot\bee-eater.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\cardinal.png">
+      <PackagePath>wwwroot\cardinal.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\app.css">
+      <PackagePath>wwwroot\css\app.css</PackagePath>
+      <Modified>2024-01-12T09:47:00.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\bootstrap\bootstrap.min.css">
+      <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
+      <Modified>2024-01-12T09:47:00.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\bootstrap\bootstrap.min.css.map">
+      <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
+      <Modified>2024-01-12T09:47:00.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.eot">
+      <PackagePath>wwwroot\css\fonts\syncfusion\icons.eot</PackagePath>
+      <Modified>2024-01-12T09:35:59.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.svg">
+      <PackagePath>wwwroot\css\fonts\syncfusion\icons.svg</PackagePath>
+      <Modified>2024-01-12T09:35:59.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.ttf">
+      <PackagePath>wwwroot\css\fonts\syncfusion\icons.ttf</PackagePath>
+      <Modified>2024-01-12T09:35:59.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.woff">
+      <PackagePath>wwwroot\css\fonts\syncfusion\icons.woff</PackagePath>
+      <Modified>2024-01-12T09:35:59.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
+      <PackagePath>wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
+      <Modified>2024-01-12T09:47:00.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.eot</PackagePath>
+      <Modified>2024-01-12T09:35:59.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.otf</PackagePath>
+      <Modified>2024-01-12T09:35:59.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.svg</PackagePath>
+      <Modified>2024-01-12T09:35:59.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.ttf</PackagePath>
+      <Modified>2024-01-12T09:35:59.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
+      <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
+      <Modified>2024-01-12T09:35:59.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\FONT-LICENSE">
+      <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
+      <Modified>2024-01-12T09:35:59.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\ICON-LICENSE">
+      <PackagePath>wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>
+      <Modified>2024-01-12T09:35:59.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\README.md">
+      <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
+      <Modified>2024-01-12T09:35:59.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\syncfusion-blazor-icons.css">
+      <PackagePath>wwwroot\css\syncfusion-blazor-icons.css</PackagePath>
+      <Modified>2024-01-12T09:35:59.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\favicon.png">
+      <PackagePath>wwwroot\favicon.png</PackagePath>
+      <Modified>2024-01-12T09:35:59.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\icon-192.png">
+      <PackagePath>wwwroot\icon-192.png</PackagePath>
+      <Modified>2024-01-12T09:35:59.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen.png">
+      <PackagePath>wwwroot\images\colorpicker\pen.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_highcontrast.png">
+      <PackagePath>wwwroot\images\colorpicker\pen_highcontrast.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_mobile.png">
+      <PackagePath>wwwroot\images\colorpicker\pen_mobile.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_mobile_highcontrast.png">
+      <PackagePath>wwwroot\images\colorpicker\pen_mobile_highcontrast.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\Logout.png">
+      <PackagePath>wwwroot\images\Logout.png</PackagePath>
+      <Modified>2024-01-12T09:35:59.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\angular.png">
+      <PackagePath>wwwroot\images\MenuBar\angular.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\core.png">
+      <PackagePath>wwwroot\images\MenuBar\core.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\javascript.png">
+      <PackagePath>wwwroot\images\MenuBar\javascript.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\mvc.png">
+      <PackagePath>wwwroot\images\MenuBar\mvc.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\ToggleButton.png">
+      <PackagePath>wwwroot\images\ToggleButton.png</PackagePath>
+      <Modified>2024-01-12T09:35:59.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\index.html">
+      <PackagePath>wwwroot\index.html</PackagePath>
+      <Modified>2024-01-12T12:08:57.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\janet.png">
+      <PackagePath>wwwroot\janet.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\keel-billed-toucan.png">
+      <PackagePath>wwwroot\keel-billed-toucan.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\kingfisher.png">
+      <PackagePath>wwwroot\kingfisher.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\laura.png">
+      <PackagePath>wwwroot\laura.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\margaret.png">
+      <PackagePath>wwwroot\margaret.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\sample-data\weather.json">
+      <PackagePath>wwwroot\sample-data\weather.json</PackagePath>
+      <Modified>2024-01-12T09:47:00.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\scripts\lodash.min.js">
+      <PackagePath>wwwroot\scripts\lodash.min.js</PackagePath>
+      <Modified>2024-01-12T09:36:01.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\yellow-warbler.png">
+      <PackagePath>wwwroot\yellow-warbler.png</PackagePath>
+      <Modified>2024-01-12T09:36:01.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+      <PackagePath>OpenSans-Regular.ttf</PackagePath>
+      <Modified>2024-01-12T06:58:17.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+      <PackagePath>appicon.ico</PackagePath>
+      <Modified>2024-01-12T06:59:17.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+      <PackagePath>appiconLogo.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+      <PackagePath>appiconLogo.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+      <PackagePath>appiconLogo.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+      <PackagePath>appiconLogo.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+      <PackagePath>appiconLogo.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:18.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+      <Modified>2024-01-12T06:59:17.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.deps.json">
+      <PackagePath>bluelotus.syncfpro.deps.json</PackagePath>
+      <Modified>2024-01-12T13:41:01.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2023-10-16T19:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
+      <PackagePath>WinRT.Runtime.dll</PackagePath>
+      <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.authorization\8.0.0\lib\net8.0\Microsoft.AspNetCore.Authorization.dll">
+      <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
+      <Modified>2023-11-01T01:07:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.components\8.0.0\lib\net8.0\Microsoft.AspNetCore.Components.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
+      <Modified>2023-11-01T01:06:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.components.forms\8.0.0\lib\net8.0\Microsoft.AspNetCore.Components.Forms.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
+      <Modified>2023-11-01T01:06:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.components.web\8.0.0\lib\net8.0\Microsoft.AspNetCore.Components.Web.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
+      <Modified>2023-11-01T01:07:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.components.webassembly\8.0.0\lib\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.WebAssembly.dll</PackagePath>
+      <Modified>2023-11-01T01:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.components.webview\8.0.0\lib\net8.0\Microsoft.AspNetCore.Components.WebView.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.WebView.dll</PackagePath>
+      <Modified>2023-11-01T01:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.components.webview.maui\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
+      <Modified>2023-11-07T20:47:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.http\2.2.2\lib\netstandard2.0\Microsoft.AspNetCore.Http.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.dll</PackagePath>
+      <Modified>2019-01-24T23:18:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.http.abstractions\2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Abstractions.dll</PackagePath>
+      <Modified>2018-11-12T17:29:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.http.features\2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Features.dll</PackagePath>
+      <Modified>2018-11-12T17:28:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.metadata\8.0.0\lib\net8.0\Microsoft.AspNetCore.Metadata.dll">
+      <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
+      <Modified>2023-11-01T01:06:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.aspnetcore.webutilities\2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.WebUtilities.dll">
+      <PackagePath>Microsoft.AspNetCore.WebUtilities.dll</PackagePath>
+      <Modified>2018-11-12T17:29:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
+      <Modified>2023-10-31T14:59:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.configuration.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.configuration.binder\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Binder.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Binder.dll</PackagePath>
+      <Modified>2023-10-31T14:59:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.configuration.fileextensions\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.FileExtensions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.configuration.json\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Json.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Json.dll</PackagePath>
+      <Modified>2023-10-31T14:59:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0\lib\net8.0\Microsoft.Extensions.DependencyInjection.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
+      <Modified>2023-10-31T14:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+      <Modified>2023-10-31T14:58:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.fileproviders.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Abstractions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.fileproviders.composite\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Composite.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Composite.dll</PackagePath>
+      <Modified>2023-10-31T14:59:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.fileproviders.embedded\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Embedded.dll</PackagePath>
+      <Modified>2023-11-01T01:06:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.fileproviders.physical\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Physical.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Physical.dll</PackagePath>
+      <Modified>2023-10-31T14:59:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.filesystemglobbing\8.0.0\lib\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll">
+      <PackagePath>Microsoft.Extensions.FileSystemGlobbing.dll</PackagePath>
+      <Modified>2023-10-31T14:58:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.logging\8.0.0\lib\net8.0\Microsoft.Extensions.Logging.dll">
+      <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
+      <Modified>2023-10-31T14:59:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.logging.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.logging.debug\8.0.0\lib\net8.0\Microsoft.Extensions.Logging.Debug.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Debug.dll</PackagePath>
+      <Modified>2023-10-31T14:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.objectpool\2.2.0\lib\netstandard2.0\Microsoft.Extensions.ObjectPool.dll">
+      <PackagePath>Microsoft.Extensions.ObjectPool.dll</PackagePath>
+      <Modified>2018-11-11T00:26:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.options\8.0.0\lib\net8.0\Microsoft.Extensions.Options.dll">
+      <PackagePath>Microsoft.Extensions.Options.dll</PackagePath>
+      <Modified>2023-10-31T14:59:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.extensions.primitives\8.0.0\lib\net8.0\Microsoft.Extensions.Primitives.dll">
+      <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
+      <Modified>2023-10-31T14:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\lib\net5.0-windows10.0.17763.0\Microsoft.Graphics.Canvas.Interop.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
+      <Modified>2023-05-31T20:07:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.jsinterop\8.0.0\lib\net8.0\Microsoft.JSInterop.dll">
+      <PackagePath>Microsoft.JSInterop.dll</PackagePath>
+      <Modified>2023-11-01T01:06:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.jsinterop.webassembly\8.0.0\lib\net8.0\Microsoft.JSInterop.WebAssembly.dll">
+      <PackagePath>Microsoft.JSInterop.WebAssembly.dll</PackagePath>
+      <Modified>2023-11-01T01:07:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.compatibility\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+      <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
+      <Modified>2023-11-07T20:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+      <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
+      <Modified>2023-11-07T20:45:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.xaml\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+      <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
+      <Modified>2023-11-07T20:45:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.core\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
+      <PackagePath>Microsoft.Maui.dll</PackagePath>
+      <Modified>2023-11-07T20:45:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.essentials\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+      <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
+      <Modified>2023-11-07T20:47:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.graphics\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
+      <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
+      <Modified>2023-11-07T20:44:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+      <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
+      <Modified>2023-11-07T20:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.net.http.headers\2.2.0\lib\netstandard2.0\Microsoft.Net.Http.Headers.dll">
+      <PackagePath>Microsoft.Net.Http.Headers.dll</PackagePath>
+      <Modified>2018-11-12T17:28:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2023-07-21T16:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>Microsoft.WinUI.dll</PackagePath>
+      <Modified>2023-07-21T22:29:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Builder.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2023-04-28T12:59:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll">
+      <PackagePath>Microsoft.Windows.Security.AccessControl.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Power.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Projection.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Projection.dll">
+      <PackagePath>Microsoft.Windows.Widgets.Projection.dll</PackagePath>
+      <Modified>2023-04-20T18:26:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+      <Modified>2023-07-21T22:29:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Release.Net.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Release.Net.dll</PackagePath>
+      <Modified>2023-07-24T19:10:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.bulletchart\24.1.45\lib\net8.0\Syncfusion.Blazor.BulletChart.dll">
+      <PackagePath>Syncfusion.Blazor.BulletChart.dll</PackagePath>
+      <Modified>2024-01-08T10:27:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.buttons\24.1.45\lib\net8.0\Syncfusion.Blazor.Buttons.dll">
+      <PackagePath>Syncfusion.Blazor.Buttons.dll</PackagePath>
+      <Modified>2024-01-08T10:19:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.calendars\24.1.45\lib\net8.0\Syncfusion.Blazor.Calendars.dll">
+      <PackagePath>Syncfusion.Blazor.Calendars.dll</PackagePath>
+      <Modified>2024-01-08T10:21:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.cards\24.1.45\lib\net8.0\Syncfusion.Blazor.Cards.dll">
+      <PackagePath>Syncfusion.Blazor.Cards.dll</PackagePath>
+      <Modified>2024-01-08T10:20:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.charts\24.1.45\lib\net8.0\Syncfusion.Blazor.Charts.dll">
+      <PackagePath>Syncfusion.Blazor.Charts.dll</PackagePath>
+      <Modified>2024-01-08T10:27:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.circulargauge\24.1.45\lib\net8.0\Syncfusion.Blazor.CircularGauge.dll">
+      <PackagePath>Syncfusion.Blazor.CircularGauge.dll</PackagePath>
+      <Modified>2024-01-08T10:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\lib\net8.0\Syncfusion.Blazor.Core.dll">
+      <PackagePath>Syncfusion.Blazor.Core.dll</PackagePath>
+      <Modified>2024-01-08T10:19:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.data\24.1.45\lib\net8.0\Syncfusion.Blazor.Data.dll">
+      <PackagePath>Syncfusion.Blazor.Data.dll</PackagePath>
+      <Modified>2024-01-08T10:19:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.datavizcommon\24.1.45\lib\net8.0\Syncfusion.Blazor.DataVizCommon.dll">
+      <PackagePath>Syncfusion.Blazor.DataVizCommon.dll</PackagePath>
+      <Modified>2024-01-08T10:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.dropdowns\24.1.45\lib\net8.0\Syncfusion.Blazor.DropDowns.dll">
+      <PackagePath>Syncfusion.Blazor.DropDowns.dll</PackagePath>
+      <Modified>2024-01-08T10:22:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.filemanager\24.1.45\lib\net8.0\Syncfusion.Blazor.FileManager.dll">
+      <PackagePath>Syncfusion.Blazor.FileManager.dll</PackagePath>
+      <Modified>2024-01-08T10:24:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.gantt\24.1.45\lib\net8.0\Syncfusion.Blazor.Gantt.dll">
+      <PackagePath>Syncfusion.Blazor.Gantt.dll</PackagePath>
+      <Modified>2024-01-08T10:24:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.grid\24.1.45\lib\net8.0\Syncfusion.Blazor.Grids.dll">
+      <PackagePath>Syncfusion.Blazor.Grids.dll</PackagePath>
+      <Modified>2024-01-08T10:24:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.imageeditor\24.1.45\lib\net8.0\Syncfusion.Blazor.ImageEditor.dll">
+      <PackagePath>Syncfusion.Blazor.ImageEditor.dll</PackagePath>
+      <Modified>2024-01-08T10:25:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\lib\net8.0\Syncfusion.Blazor.Inputs.dll">
+      <PackagePath>Syncfusion.Blazor.Inputs.dll</PackagePath>
+      <Modified>2024-01-08T10:21:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.layouts\24.1.45\lib\net8.0\Syncfusion.Blazor.Layouts.dll">
+      <PackagePath>Syncfusion.Blazor.Layouts.dll</PackagePath>
+      <Modified>2024-01-08T10:21:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.lists\24.1.45\lib\net8.0\Syncfusion.Blazor.Lists.dll">
+      <PackagePath>Syncfusion.Blazor.Lists.dll</PackagePath>
+      <Modified>2024-01-08T10:21:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\lib\net8.0\Syncfusion.Blazor.Navigations.dll">
+      <PackagePath>Syncfusion.Blazor.Navigations.dll</PackagePath>
+      <Modified>2024-01-08T10:22:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.notifications\24.1.45\lib\net8.0\Syncfusion.Blazor.Notifications.dll">
+      <PackagePath>Syncfusion.Blazor.Notifications.dll</PackagePath>
+      <Modified>2024-01-08T10:20:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.pivottable\24.1.45\lib\net8.0\Syncfusion.Blazor.PivotView.dll">
+      <PackagePath>Syncfusion.Blazor.PivotView.dll</PackagePath>
+      <Modified>2024-01-08T10:28:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.popups\24.1.45\lib\net8.0\Syncfusion.Blazor.Popups.dll">
+      <PackagePath>Syncfusion.Blazor.Popups.dll</PackagePath>
+      <Modified>2024-01-08T10:20:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.querybuilder\24.1.45\lib\net8.0\Syncfusion.Blazor.QueryBuilder.dll">
+      <PackagePath>Syncfusion.Blazor.QueryBuilder.dll</PackagePath>
+      <Modified>2024-01-08T10:23:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.rangenavigator\24.1.45\lib\net8.0\Syncfusion.Blazor.RangeNavigator.dll">
+      <PackagePath>Syncfusion.Blazor.RangeNavigator.dll</PackagePath>
+      <Modified>2024-01-08T10:27:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.richtexteditor\24.1.45\lib\net8.0\Syncfusion.Blazor.RichTextEditor.dll">
+      <PackagePath>Syncfusion.Blazor.RichTextEditor.dll</PackagePath>
+      <Modified>2024-01-08T10:23:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.schedule\24.1.45\lib\net8.0\Syncfusion.Blazor.Schedule.dll">
+      <PackagePath>Syncfusion.Blazor.Schedule.dll</PackagePath>
+      <Modified>2024-01-08T10:23:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.spinner\24.1.45\lib\net8.0\Syncfusion.Blazor.Spinner.dll">
+      <PackagePath>Syncfusion.Blazor.Spinner.dll</PackagePath>
+      <Modified>2024-01-08T10:20:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.splitbuttons\24.1.45\lib\net8.0\Syncfusion.Blazor.SplitButtons.dll">
+      <PackagePath>Syncfusion.Blazor.SplitButtons.dll</PackagePath>
+      <Modified>2024-01-08T10:21:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.stockchart\24.1.45\lib\net8.0\Syncfusion.Blazor.StockChart.dll">
+      <PackagePath>Syncfusion.Blazor.StockChart.dll</PackagePath>
+      <Modified>2024-01-08T10:27:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\lib\net8.0\Syncfusion.Blazor.Themes.dll">
+      <PackagePath>Syncfusion.Blazor.Themes.dll</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.treegrid\24.1.45\lib\net8.0\Syncfusion.Blazor.TreeGrid.dll">
+      <PackagePath>Syncfusion.Blazor.TreeGrid.dll</PackagePath>
+      <Modified>2024-01-08T10:24:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.compression.net.core\24.1.45\lib\net8.0\Syncfusion.Compression.Portable.dll">
+      <PackagePath>Syncfusion.Compression.Portable.dll</PackagePath>
+      <Modified>2024-01-08T09:44:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.excelexport.net.core\24.1.45\lib\net8.0\Syncfusion.ExcelExport.Net.dll">
+      <PackagePath>Syncfusion.ExcelExport.Net.dll</PackagePath>
+      <Modified>2024-01-08T10:00:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.licensing\24.1.45\lib\net8.0\Syncfusion.Licensing.dll">
+      <PackagePath>Syncfusion.Licensing.dll</PackagePath>
+      <Modified>2024-01-08T08:22:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.pdfexport.net.core\24.1.45\lib\net7.0\Syncfusion.PdfExport.Net.dll">
+      <PackagePath>Syncfusion.PdfExport.Net.dll</PackagePath>
+      <Modified>2024-01-08T09:49:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.xlsio.net.core\24.1.45\lib\net8.0\Syncfusion.XlsIO.Portable.dll">
+      <PackagePath>Syncfusion.XlsIO.Portable.dll</PackagePath>
+      <Modified>2024-01-08T10:05:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\system.io.pipelines\8.0.0\lib\net8.0\System.IO.Pipelines.dll">
+      <PackagePath>System.IO.Pipelines.dll</PackagePath>
+      <Modified>2023-10-31T14:59:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:44:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ca\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:44:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>cs\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>da\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:44:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>de\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:44:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>el\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>es\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>fi\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>fr\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>he\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>hi\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>hr\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>hu\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>id\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>it\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ja\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ko\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ms\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>nb\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>nl\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>pl\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:46:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>pt-BR\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>pt\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ro\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ru\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>sk\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>sv\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>th\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:44:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>tr\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>uk\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>vi\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>zh-HK\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2023-11-07T20:45:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2023-05-31T20:12:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2023-04-28T12:58:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\bin\Debug\net8.0\SyncfusionBlazorApp1.dll">
+      <PackagePath>SyncfusionBlazorApp1.dll</PackagePath>
+      <Modified>2024-01-12T13:39:26.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\Properties\launchSettings.json">
+      <PackagePath>Properties\launchSettings.json</PackagePath>
+      <Modified>2024-01-12T09:47:00.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\obj\Debug\net8.0\staticwebassets.development.json">
+      <PackagePath>SyncfusionBlazorApp1.staticwebassets.runtime.json</PackagePath>
+      <Modified>2024-01-12T13:39:26.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.compatibility\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+      <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
+      <Modified>2023-11-07T20:32:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+      <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
+      <Modified>2023-11-07T20:31:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.core\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
+      <PackagePath>Microsoft.Maui.pri</PackagePath>
+      <Modified>2023-11-07T20:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.bulletchart\24.1.45\staticwebassets\scripts\sf-bullet-chart.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.BulletChart\scripts\sf-bullet-chart.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.buttons\24.1.45\staticwebassets\scripts\sf-floating-action-button.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Buttons\scripts\sf-floating-action-button.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.buttons\24.1.45\staticwebassets\scripts\sf-speeddial.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Buttons\scripts\sf-speeddial.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.calendars\24.1.45\staticwebassets\scripts\sf-calendar.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Calendars\scripts\sf-calendar.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.calendars\24.1.45\staticwebassets\scripts\sf-datepicker.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Calendars\scripts\sf-datepicker.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.calendars\24.1.45\staticwebassets\scripts\sf-daterangepicker.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Calendars\scripts\sf-daterangepicker.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.calendars\24.1.45\staticwebassets\scripts\sf-timepicker.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Calendars\scripts\sf-timepicker.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.charts\24.1.45\staticwebassets\scripts\sf-accumulation-chart.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Charts\scripts\sf-accumulation-chart.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.charts\24.1.45\staticwebassets\scripts\sf-chart.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Charts\scripts\sf-chart.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.circulargauge\24.1.45\staticwebassets\scripts\sf-circulargauge.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.CircularGauge\scripts\sf-circulargauge.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\compression.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\compression.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\excelexport.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\excelexport.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\fileutils.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\fileutils.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\pdfexport.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\pdfexport.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\popup.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\popup.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\popupsbase.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\popupsbase.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\sf-svg-export.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\sf-svg-export.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\svgbase.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\svgbase.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\syncfusion-blazor.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\syncfusion-blazor.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\syncfusion-blazor-base.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\syncfusion-blazor-base.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.core\24.1.45\staticwebassets\scripts\syncfusion-blazor-extended.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Core\scripts\syncfusion-blazor-extended.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.data\24.1.45\staticwebassets\scripts\data.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Data\scripts\data.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.dropdowns\24.1.45\staticwebassets\scripts\sf-dropdownlist.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.DropDowns\scripts\sf-dropdownlist.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.dropdowns\24.1.45\staticwebassets\scripts\sf-listbox.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.DropDowns\scripts\sf-listbox.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.dropdowns\24.1.45\staticwebassets\scripts\sf-mention.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.DropDowns\scripts\sf-mention.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.dropdowns\24.1.45\staticwebassets\scripts\sf-multiselect.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.DropDowns\scripts\sf-multiselect.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.dropdowns\24.1.45\staticwebassets\scripts\sortable.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.DropDowns\scripts\sortable.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.filemanager\24.1.45\staticwebassets\scripts\sf-filemanager.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.FileManager\scripts\sf-filemanager.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.gantt\24.1.45\staticwebassets\scripts\sf-gantt.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Gantt\scripts\sf-gantt.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.grid\24.1.45\staticwebassets\scripts\sf-grid.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Grid\scripts\sf-grid.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.imageeditor\24.1.45\staticwebassets\scripts\sf-image-editor.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.ImageEditor\scripts\sf-image-editor.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-colorpicker.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-colorpicker.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-maskedtextbox.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-maskedtextbox.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-numerictextbox.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-numerictextbox.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-rating.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-rating.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-signature.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-signature.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-slider.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-slider.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-textbox.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-textbox.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.inputs\24.1.45\staticwebassets\scripts\sf-uploader.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Inputs\scripts\sf-uploader.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.layouts\24.1.45\staticwebassets\scripts\sf-dashboard-layout.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Layouts\scripts\sf-dashboard-layout.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.layouts\24.1.45\staticwebassets\scripts\sf-splitter.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Layouts\scripts\sf-splitter.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.lists\24.1.45\staticwebassets\scripts\sf-listview.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Lists\scripts\sf-listview.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\navigationsbase.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\navigationsbase.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-accordion.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-accordion.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-breadcrumb.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-breadcrumb.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-carousel.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-carousel.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-contextmenu.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-contextmenu.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-dropdowntree.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-dropdowntree.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-menu.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-menu.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-pager.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-pager.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-sidebar.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-sidebar.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-stepper.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-stepper.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-tab.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-tab.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-toolbar.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-toolbar.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.navigations\24.1.45\staticwebassets\scripts\sf-treeview.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Navigations\scripts\sf-treeview.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.notifications\24.1.45\staticwebassets\scripts\sf-toast.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Notifications\scripts\sf-toast.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.pivottable\24.1.45\staticwebassets\scripts\sf-pivotview.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.PivotTable\scripts\sf-pivotview.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.popups\24.1.45\staticwebassets\scripts\sf-dialog.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Popups\scripts\sf-dialog.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.popups\24.1.45\staticwebassets\scripts\sf-tooltip.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Popups\scripts\sf-tooltip.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.rangenavigator\24.1.45\staticwebassets\scripts\sf-range-navigator.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.RangeNavigator\scripts\sf-range-navigator.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.richtexteditor\24.1.45\staticwebassets\scripts\sf-richtexteditor.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.RichTextEditor\scripts\sf-richtexteditor.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.schedule\24.1.45\staticwebassets\scripts\sf-schedule.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Schedule\scripts\sf-schedule.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.spinner\24.1.45\staticwebassets\scripts\sf-spinner.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Spinner\scripts\sf-spinner.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.spinner\24.1.45\staticwebassets\scripts\spinner.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Spinner\scripts\spinner.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.splitbuttons\24.1.45\staticwebassets\scripts\sf-drop-down-button.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.SplitButtons\scripts\sf-drop-down-button.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.splitbuttons\24.1.45\staticwebassets\scripts\splitbuttonsbase.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.SplitButtons\scripts\splitbuttonsbase.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.stockchart\24.1.45\staticwebassets\scripts\sf-stock-chart.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.StockChart\scripts\sf-stock-chart.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\bootstrap.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\bootstrap.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\bootstrap4.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\bootstrap4.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\bootstrap5.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\bootstrap5.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\bootstrap5-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\bootstrap5-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\bootstrap-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\bootstrap-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\customized\material.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\customized\material.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\customized\material-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\customized\material-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\customized\tailwind.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\customized\tailwind.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\customized\tailwind-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\customized\tailwind-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\fabric.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\fabric.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\fabric-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\fabric-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\fluent.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\fluent.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\fluent-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\fluent-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\highcontrast.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\highcontrast.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\material.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\material.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\material3.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\material3.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\material3-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\material3-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\material-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\material-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\tailwind.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\tailwind.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.themes\24.1.45\staticwebassets\tailwind-dark.css">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.Themes\tailwind-dark.css</PackagePath>
+      <Modified>2024-01-08T10:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\syncfusion.blazor.treegrid\24.1.45\staticwebassets\scripts\sf-treegrid.min.js">
+      <PackagePath>wwwroot\_content\Syncfusion.Blazor.TreeGrid\scripts\sf-treegrid.min.js</PackagePath>
+      <Modified>2024-01-08T10:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\bluelotus.syncfpro.styles.css">
+      <PackagePath>wwwroot\bluelotus.syncfpro.styles.css</PackagePath>
+      <Modified>2024-01-12T13:40:43.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\bluelotus.syncfpro.bundle.scp.css">
+      <PackagePath>wwwroot\bluelotus.syncfpro.bundle.scp.css</PackagePath>
+      <Modified>2024-01-12T06:59:07.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\obj\Debug\net8.0\scopedcss\projectbundle\SyncfusionBlazorApp1.bundle.scp.css">
+      <PackagePath>wwwroot\_content\SyncfusionBlazorApp1\SyncfusionBlazorApp1.bundle.scp.css</PackagePath>
+      <Modified>2024-01-12T13:39:26.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\Components\Layout\MainLayout.razor.css">
+      <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
+      <Modified>2024-01-12T06:58:17.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\Components\Layout\NavMenu.razor.css">
+      <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
+      <Modified>2024-01-12T06:58:17.030</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.3.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.3</Name>
+      <Version>3000.934.1904.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.3, MinVersion = 3000.934.1904.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.3.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.3.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.3</Name>
+      <Version>3000.934.1904.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.3, MinVersion = 3000.934.1904.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.3.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.3.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.3</Name>
+      <Version>3000.934.1904.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.3, MinVersion = 3000.934.1904.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.3.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.3.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.3</Name>
+      <Version>3000.934.1904.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.3, MinVersion = 3000.934.1904.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.3.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
