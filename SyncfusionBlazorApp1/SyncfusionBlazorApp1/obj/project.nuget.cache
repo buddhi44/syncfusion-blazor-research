@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2pO7PXrTnsrPgDvJ/f/fRwNn2lPHrLe+4qYva3q2BYA8Q+giOafSe4i6ZSohCWURBV75uoBbL7za/i8V7DUy4g==",
+  "dgSpecHash": "TYddd1obwCRCefwjkYEuJuxlgWdpJ3JS6FnDDO6o2uJnwKrPSgWP2NUNenes5N/JwD/3xary/RyuRSK61EbvVw==",
   "success": true,
-  "projectFilePath": "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
+  "projectFilePath": "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",

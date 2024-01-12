@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzZbxfVzmg9oc2uLMsxSi5ygf1rwDGJnR4ZX3syzOpypFpi1MirfoAd6a+rWIqQur30b1l/hWc1dDzhMO3Zwlg==",
+  "dgSpecHash": "VJQgvjEcwy3IdNftTR8XuD+CIMqwsfxmaQHAFG/Z7Iq2+EyDSrZTtnMp51m0QDFFY5+XK3bZMTP5g2v31mM3lQ==",
   "success": true,
-  "projectFilePath": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\bluelotus.syncfpro.csproj",
+  "projectFilePath": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\bluelotus.syncfpro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",

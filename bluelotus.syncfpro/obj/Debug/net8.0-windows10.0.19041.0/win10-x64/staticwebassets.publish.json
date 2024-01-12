@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "bYvIE3sFLqW0FGcnmI6wpCAUrc5QWvyxSBnZwwqnAQg=",
+  "Hash": "wwgv25BfUAtV8E+8keQSaiTT1k4m9yrmzxI3A3qnnjs=",
   "Source": "bluelotus.syncfpro",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
       "Version": 2,
       "Source": "SyncfusionBlazorApp1",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,7 +22,7 @@
     {
       "Name": "bluelotus.syncfpro\\wwwroot",
       "Source": "bluelotus.syncfpro",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     },
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.blazor.treegrid\\24.1.45\\staticwebassets\\scripts\\sf-treegrid.min.js"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\bluelotus.syncfpro.styles.css",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\bluelotus.syncfpro.styles.css",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "bluelotus.syncfpro.styles.css",
       "AssetKind": "All",
@@ -1724,13 +1724,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\bluelotus.syncfpro.styles.css"
+      "OriginalItemSpec": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\bluelotus.syncfpro.styles.css"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\bluelotus.syncfpro.bundle.scp.css",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\bluelotus.syncfpro.bundle.scp.css",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "bluelotus.syncfpro.bundle.scp.css",
       "AssetKind": "All",
@@ -1743,13 +1743,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\bluelotus.syncfpro.bundle.scp.css"
+      "OriginalItemSpec": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\bluelotus.syncfpro.bundle.scp.css"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\anne.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\anne.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "anne.png",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\anne.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\bee-eater.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\bee-eater.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "bee-eater.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\bee-eater.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\cardinal.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\cardinal.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "cardinal.png",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\cardinal.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\app.css",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\app.css",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.eot",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.eot",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/fonts/syncfusion/icons.eot",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.eot"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.svg",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.svg",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/fonts/syncfusion/icons.svg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.svg"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.ttf",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.ttf",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/fonts/syncfusion/icons.ttf",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.ttf"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.woff",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\fonts\\syncfusion\\icons.woff",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/fonts/syncfusion/icons.woff",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\syncfusion\\icons.woff"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\css\\syncfusion-blazor-icons.css",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\css\\syncfusion-blazor-icons.css",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/syncfusion-blazor-icons.css",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\css\\syncfusion-blazor-icons.css"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\favicon.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\favicon.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\icon-192.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\icon-192.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "icon-192.png",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/colorpicker/pen.png",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\colorpicker\\pen.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen_highcontrast.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen_highcontrast.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/colorpicker/pen_highcontrast.png",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\colorpicker\\pen_highcontrast.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen_mobile.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen_mobile.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/colorpicker/pen_mobile.png",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\colorpicker\\pen_mobile.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen_mobile_highcontrast.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\colorpicker\\pen_mobile_highcontrast.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/colorpicker/pen_mobile_highcontrast.png",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\colorpicker\\pen_mobile_highcontrast.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\Logout.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\Logout.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/Logout.png",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logout.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\angular.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\angular.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/MenuBar/angular.png",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\MenuBar\\angular.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\core.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\core.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/MenuBar/core.png",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\images\\MenuBar\\core.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\javascript.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\javascript.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/MenuBar/javascript.png",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\MenuBar\\javascript.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\mvc.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\MenuBar\\mvc.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/MenuBar/mvc.png",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\MenuBar\\mvc.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\images\\ToggleButton.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\images\\ToggleButton.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "images/ToggleButton.png",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ToggleButton.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\index.html",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\index.html",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\janet.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\janet.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "janet.png",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\janet.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\keel-billed-toucan.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\keel-billed-toucan.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "keel-billed-toucan.png",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\keel-billed-toucan.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\kingfisher.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\kingfisher.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "kingfisher.png",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\kingfisher.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\laura.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\laura.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "laura.png",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\laura.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\margaret.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\margaret.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "margaret.png",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\margaret.png"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\sample-data\\weather.json",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\sample-data\\weather.json",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "sample-data/weather.json",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\scripts\\lodash.min.js",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\scripts\\lodash.min.js",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "scripts/lodash.min.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\scripts\\lodash.min.js"
     },
     {
-      "Identity": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\yellow-warbler.png",
+      "Identity": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\yellow-warbler.png",
       "SourceId": "bluelotus.syncfpro",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\myweb\\Blazor\\bluelotus.syncfpro\\wwwroot\\",
+      "ContentRoot": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfpro\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "yellow-warbler.png",
       "AssetKind": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xfs/8wcDS2tt9I0fUG9eHsimHYxxE9cWZm0TWQaeQIm9TOmS6xBqJqWUu49BvWulJG+/92CLYMne3xm7em5HZQ==",
+  "dgSpecHash": "R1wYxNXUtYzbJ3++eX1mGJ/uDyUmZp+LlpSlRDA5ZlIEV7kY6ztDoWxjXainfedZwd8a8uTC2CnqxaxA9TNsZA==",
   "success": true,
-  "projectFilePath": "G:\\myweb\\Blazor\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj",
+  "projectFilePath": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",

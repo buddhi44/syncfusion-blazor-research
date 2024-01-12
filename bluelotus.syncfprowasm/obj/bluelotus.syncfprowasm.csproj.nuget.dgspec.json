@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\myweb\\Blazor\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj": {}
+    "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj": {}
   },
   "projects": {
-    "G:\\myweb\\Blazor\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj": {
+    "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\myweb\\Blazor\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj",
+        "projectUniqueName": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj",
         "projectName": "bluelotus.syncfprowasm",
-        "projectPath": "G:\\myweb\\Blazor\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj",
+        "projectPath": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfprowasm\\bluelotus.syncfprowasm.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\myweb\\Blazor\\bluelotus.syncfprowasm\\obj\\",
+        "outputPath": "G:\\myweb\\Blazor\\Syncf\\bluelotus.syncfprowasm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -35,8 +35,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj": {
-                "projectPath": "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj"
+              "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj": {
+                "projectPath": "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj": {
+    "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
+        "projectUniqueName": "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
         "projectName": "SyncfusionBlazorApp1",
-        "projectPath": "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
+        "projectPath": "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\myweb\\Blazor\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\obj\\",
+        "outputPath": "G:\\myweb\\Blazor\\Syncf\\SyncfusionBlazorApp1\\SyncfusionBlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
