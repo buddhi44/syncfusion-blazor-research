@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.bluelotus.syncfpro</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>G:\myweb\Blazor\Syncf\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>12A486D836919453E21CC73778F776642EC37F3A15A2359C09A0DB35436B0D3D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.bluelotus.syncfpro_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.bluelotus.syncfpro_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,428 +27,428 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-12T13:41:02.120</Modified>
+      <Modified>2024-01-22T03:49:44.775</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-01-12T13:41:01.805</Modified>
+      <Modified>2024-01-22T03:49:43.429</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.runtimeconfig.json">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.runtimeconfig.json">
       <PackagePath>bluelotus.syncfpro.runtimeconfig.json</PackagePath>
-      <Modified>2024-01-12T13:41:01.544</Modified>
+      <Modified>2024-01-22T03:49:42.997</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.dll">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.dll">
       <PackagePath>bluelotus.syncfpro.dll</PackagePath>
-      <Modified>2024-01-12T13:41:00.363</Modified>
+      <Modified>2024-01-22T03:49:39.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>bluelotus.syncfpro.exe</PackagePath>
-      <Modified>2024-01-12T13:41:00.430</Modified>
+      <Modified>2024-01-22T03:49:39.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-01-12T06:58:17.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\anne.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\anne.png">
       <PackagePath>wwwroot\anne.png</PackagePath>
       <Modified>2024-01-12T09:36:01.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\bee-eater.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\bee-eater.png">
       <PackagePath>wwwroot\bee-eater.png</PackagePath>
       <Modified>2024-01-12T09:36:01.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\cardinal.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\cardinal.png">
       <PackagePath>wwwroot\cardinal.png</PackagePath>
       <Modified>2024-01-12T09:36:01.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\app.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
       <Modified>2024-01-12T09:47:00.537</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\bootstrap\bootstrap.min.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
       <Modified>2024-01-12T09:47:00.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\bootstrap\bootstrap.min.css.map">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
       <Modified>2024-01-12T09:47:00.466</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.eot">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.eot">
       <PackagePath>wwwroot\css\fonts\syncfusion\icons.eot</PackagePath>
       <Modified>2024-01-12T09:35:59.486</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.svg">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.svg">
       <PackagePath>wwwroot\css\fonts\syncfusion\icons.svg</PackagePath>
       <Modified>2024-01-12T09:35:59.495</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.ttf">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.ttf">
       <PackagePath>wwwroot\css\fonts\syncfusion\icons.ttf</PackagePath>
       <Modified>2024-01-12T09:35:59.497</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.woff">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\fonts\syncfusion\icons.woff">
       <PackagePath>wwwroot\css\fonts\syncfusion\icons.woff</PackagePath>
       <Modified>2024-01-12T09:35:59.498</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
       <PackagePath>wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
       <Modified>2024-01-12T09:47:00.477</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.eot</PackagePath>
       <Modified>2024-01-12T09:35:59.501</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.otf</PackagePath>
       <Modified>2024-01-12T09:35:59.502</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.svg</PackagePath>
       <Modified>2024-01-12T09:35:59.503</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.ttf</PackagePath>
       <Modified>2024-01-12T09:35:59.504</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
       <Modified>2024-01-12T09:35:59.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\FONT-LICENSE">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\FONT-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
       <Modified>2024-01-12T09:35:59.499</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\ICON-LICENSE">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\ICON-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>
       <Modified>2024-01-12T09:35:59.506</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\open-iconic\README.md">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\open-iconic\README.md">
       <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
       <Modified>2024-01-12T09:35:59.506</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\css\syncfusion-blazor-icons.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\css\syncfusion-blazor-icons.css">
       <PackagePath>wwwroot\css\syncfusion-blazor-icons.css</PackagePath>
       <Modified>2024-01-12T09:35:59.507</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\favicon.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\favicon.png">
       <PackagePath>wwwroot\favicon.png</PackagePath>
       <Modified>2024-01-12T09:35:59.507</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\icon-192.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\icon-192.png">
       <PackagePath>wwwroot\icon-192.png</PackagePath>
       <Modified>2024-01-12T09:35:59.508</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\colorpicker\pen.png">
       <PackagePath>wwwroot\images\colorpicker\pen.png</PackagePath>
       <Modified>2024-01-12T09:36:01.290</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_highcontrast.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_highcontrast.png">
       <PackagePath>wwwroot\images\colorpicker\pen_highcontrast.png</PackagePath>
       <Modified>2024-01-12T09:36:01.291</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_mobile.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_mobile.png">
       <PackagePath>wwwroot\images\colorpicker\pen_mobile.png</PackagePath>
       <Modified>2024-01-12T09:36:01.291</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_mobile_highcontrast.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\colorpicker\pen_mobile_highcontrast.png">
       <PackagePath>wwwroot\images\colorpicker\pen_mobile_highcontrast.png</PackagePath>
       <Modified>2024-01-12T09:36:01.292</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\Logout.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\Logout.png">
       <PackagePath>wwwroot\images\Logout.png</PackagePath>
       <Modified>2024-01-12T09:35:59.509</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\angular.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\MenuBar\angular.png">
       <PackagePath>wwwroot\images\MenuBar\angular.png</PackagePath>
       <Modified>2024-01-12T09:36:01.403</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\core.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\MenuBar\core.png">
       <PackagePath>wwwroot\images\MenuBar\core.png</PackagePath>
       <Modified>2024-01-12T09:36:01.403</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\javascript.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\MenuBar\javascript.png">
       <PackagePath>wwwroot\images\MenuBar\javascript.png</PackagePath>
       <Modified>2024-01-12T09:36:01.404</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\MenuBar\mvc.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\MenuBar\mvc.png">
       <PackagePath>wwwroot\images\MenuBar\mvc.png</PackagePath>
       <Modified>2024-01-12T09:36:01.404</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\images\ToggleButton.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\images\ToggleButton.png">
       <PackagePath>wwwroot\images\ToggleButton.png</PackagePath>
       <Modified>2024-01-12T09:35:59.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\index.html">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
       <Modified>2024-01-12T12:08:57.691</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\janet.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\janet.png">
       <PackagePath>wwwroot\janet.png</PackagePath>
       <Modified>2024-01-12T09:36:01.284</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\keel-billed-toucan.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\keel-billed-toucan.png">
       <PackagePath>wwwroot\keel-billed-toucan.png</PackagePath>
       <Modified>2024-01-12T09:36:01.268</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\kingfisher.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\kingfisher.png">
       <PackagePath>wwwroot\kingfisher.png</PackagePath>
       <Modified>2024-01-12T09:36:01.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\laura.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\laura.png">
       <PackagePath>wwwroot\laura.png</PackagePath>
       <Modified>2024-01-12T09:36:01.284</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\margaret.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\margaret.png">
       <PackagePath>wwwroot\margaret.png</PackagePath>
       <Modified>2024-01-12T09:36:01.285</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\sample-data\weather.json">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\sample-data\weather.json">
       <PackagePath>wwwroot\sample-data\weather.json</PackagePath>
       <Modified>2024-01-12T09:47:00.544</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\scripts\lodash.min.js">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\scripts\lodash.min.js">
       <PackagePath>wwwroot\scripts\lodash.min.js</PackagePath>
       <Modified>2024-01-12T09:36:01.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\wwwroot\yellow-warbler.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\wwwroot\yellow-warbler.png">
       <PackagePath>wwwroot\yellow-warbler.png</PackagePath>
       <Modified>2024-01-12T09:36:01.275</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:17.332</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:17.347</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:17.371</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:17.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:17.549</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-01-12T06:58:17.154</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-01-12T06:59:17.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:18.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:18.188</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:18.207</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:18.242</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:18.393</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-01-12T06:59:17.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-01-12T06:59:17.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-01-12T06:59:17.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-01-12T06:59:17.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-01-12T06:59:17.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-01-12T06:59:17.727</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-01-12T06:59:17.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-01-12T06:59:17.763</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-01-12T06:59:17.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-01-12T06:59:17.747</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:17.634</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:17.642</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:17.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:17.661</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:17.673</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-01-12T06:59:17.679</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-01-12T06:59:17.686</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-01-12T06:59:17.721</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-01-12T06:59:17.694</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-01-12T06:59:17.703</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:17.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:17.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:17.924</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:17.941</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:17.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:17.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:17.856</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:17.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:17.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:17.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:17.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:17.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:17.825</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:17.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:17.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:17.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:18.014</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:18.032</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:18.062</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:18.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-01-12T06:59:17.671</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-01-12T06:59:17.682</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-01-12T06:59:17.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-01-12T06:59:17.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-01-12T06:59:17.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.deps.json">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bluelotus.syncfpro.deps.json">
       <PackagePath>bluelotus.syncfpro.deps.json</PackagePath>
-      <Modified>2024-01-12T13:41:01.388</Modified>
+      <Modified>2024-01-22T03:49:42.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -970,17 +970,17 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2023-04-28T12:58:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\bin\Debug\net8.0\SyncfusionBlazorApp1.dll">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\SyncfusionBlazorApp1\SyncfusionBlazorApp1\bin\Debug\net8.0\SyncfusionBlazorApp1.dll">
       <PackagePath>SyncfusionBlazorApp1.dll</PackagePath>
-      <Modified>2024-01-12T13:39:26.532</Modified>
+      <Modified>2024-01-22T03:49:24.680</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\Properties\launchSettings.json">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\SyncfusionBlazorApp1\SyncfusionBlazorApp1\Properties\launchSettings.json">
       <PackagePath>Properties\launchSettings.json</PackagePath>
       <Modified>2024-01-12T09:47:00.216</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\obj\Debug\net8.0\staticwebassets.development.json">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\SyncfusionBlazorApp1\SyncfusionBlazorApp1\obj\Debug\net8.0\staticwebassets.development.json">
       <PackagePath>SyncfusionBlazorApp1.staticwebassets.runtime.json</PackagePath>
-      <Modified>2024-01-12T13:39:26.682</Modified>
+      <Modified>2024-01-22T03:49:25.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.maui.controls.compatibility\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1346,23 +1346,23 @@
       <PackagePath>wwwroot\_content\Syncfusion.Blazor.TreeGrid\scripts\sf-treegrid.min.js</PackagePath>
       <Modified>2024-01-08T10:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\bluelotus.syncfpro.styles.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\bluelotus.syncfpro.styles.css">
       <PackagePath>wwwroot\bluelotus.syncfpro.styles.css</PackagePath>
-      <Modified>2024-01-12T13:40:43.835</Modified>
+      <Modified>2024-01-22T03:49:29.917</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\bluelotus.syncfpro.bundle.scp.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\bluelotus.syncfpro.bundle.scp.css">
       <PackagePath>wwwroot\bluelotus.syncfpro.bundle.scp.css</PackagePath>
       <Modified>2024-01-12T06:59:07.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\SyncfusionBlazorApp1\SyncfusionBlazorApp1\obj\Debug\net8.0\scopedcss\projectbundle\SyncfusionBlazorApp1.bundle.scp.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\SyncfusionBlazorApp1\SyncfusionBlazorApp1\obj\Debug\net8.0\scopedcss\projectbundle\SyncfusionBlazorApp1.bundle.scp.css">
       <PackagePath>wwwroot\_content\SyncfusionBlazorApp1\SyncfusionBlazorApp1.bundle.scp.css</PackagePath>
       <Modified>2024-01-12T13:39:26.704</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\Components\Layout\MainLayout.razor.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
       <Modified>2024-01-12T06:58:17.025</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\myweb\Blazor\bluelotus.syncfpro\Components\Layout\NavMenu.razor.css">
+    <AppxPackagedFile Include="G:\myweb\Blazor\Syncf\bluelotus.syncfpro\Components\Layout\NavMenu.razor.css">
       <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
       <Modified>2024-01-12T06:58:17.030</Modified>
     </AppxPackagedFile>

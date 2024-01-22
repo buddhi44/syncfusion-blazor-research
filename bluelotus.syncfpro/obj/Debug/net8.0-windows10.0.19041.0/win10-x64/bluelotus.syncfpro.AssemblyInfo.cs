@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bluelotus.syncfpro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9378bd091e4ae28b4c3afbc59554bdf564fc40f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("bluelotus.syncfpro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bluelotus.syncfpro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
